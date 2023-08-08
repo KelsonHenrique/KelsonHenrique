@@ -3,7 +3,7 @@
 - - I have completed the data science course on data analysis and visualization using Python on <a href="https://www.alura.com.br/" target="_blank" rel="noopener">Alura</a>;
 - - I am studying data analysis in Python, using the Pandas library, on the platform <a href="https://www.alura.com.br/" target="_blank" rel="noopener">Alura</a>;
 - - I am studying the application of Power BI in building dashboards on the platform <a href="https://www.alura.com.br/" target="_blank" rel="noopener">Alura</a>;
-- - Main technologies: Python, Power BI and Office;
+- - Main technologies: Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />, Power BI and Office;
 - :books: Pre-intermediate in English and Spanish;
 - :mailbox: How to reach me: https://www.linkedin.com/in/kelsonhenrique7/
 <!--
