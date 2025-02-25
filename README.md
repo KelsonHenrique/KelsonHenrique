@@ -2,7 +2,7 @@
 
 ![cartao_visita](https://github.com/user-attachments/assets/59c47a22-62d7-4cfa-b157-b15b9b47768d)
 
-- :computer: I have been working in the financial sector of new and used car sales for 9 years, and currently, I am transitioning into a career in the field of data science.
+- :computer: I have been working in the financial sector of new and used car sales for 10 years, and currently, I am transitioning into a career in the field of data science.
 - - I have completed the data science course on data analysis and visualization using Python on <a href="https://www.alura.com.br/" target="_blank" rel="noopener">Alura</a>;
 - - I am studying data analysis in Python, using the Pandas library, on the platform <a href="https://www.alura.com.br/" target="_blank" rel="noopener">Alura</a>;
 - - I am studying the application of Power BI in building dashboards on the platform <a href="https://www.alura.com.br/" target="_blank" rel="noopener">Alura</a>;
